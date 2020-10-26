@@ -1,0 +1,29 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-GAS_Practice-0010.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\sadan\Documents\Unreal Projects\GAS_Practice\Intermediate\Build\Win64\GAS_PracticeEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\sadan\Documents\Unreal Projects\GAS_Practice\Intermediate\Build\Win64\UE4Editor\Development\GAS_Practice\GASAbilityComponent.cpp.obj"
+"C:\Users\sadan\Documents\Unreal Projects\GAS_Practice\Intermediate\Build\Win64\UE4Editor\Development\GAS_Practice\GASCharacter.cpp.obj"
+"C:\Users\sadan\Documents\Unreal Projects\GAS_Practice\Intermediate\Build\Win64\UE4Editor\Development\GAS_Practice\GAS_FPCAttributeSet.cpp.obj"
+"C:\Users\sadan\Documents\Unreal Projects\GAS_Practice\Intermediate\Build\Win64\UE4Editor\Development\GAS_Practice\GAS_GameplayAbility.cpp.obj"
+"C:\Users\sadan\Documents\Unreal Projects\GAS_Practice\Intermediate\Build\Win64\UE4Editor\Development\GAS_Practice\GAS_Practice.cpp.obj"
+"C:\Users\sadan\Documents\Unreal Projects\GAS_Practice\Intermediate\Build\Win64\UE4Editor\Development\GAS_Practice\GAS_PracticeCharacter.cpp.obj"
+"C:\Users\sadan\Documents\Unreal Projects\GAS_Practice\Intermediate\Build\Win64\UE4Editor\Development\GAS_Practice\GAS_PracticeGameMode.cpp.obj"
+"C:\Users\sadan\Documents\Unreal Projects\GAS_Practice\Intermediate\Build\Win64\UE4Editor\Development\GAS_Practice\PlayerAttributes.cpp.obj"
+"C:\Users\sadan\Documents\Unreal Projects\GAS_Practice\Intermediate\Build\Win64\UE4Editor\Development\GAS_Practice\GASAbilityComponent.gen.cpp.obj"
+"C:\Users\sadan\Documents\Unreal Projects\GAS_Practice\Intermediate\Build\Win64\UE4Editor\Development\GAS_Practice\GASCharacter.gen.cpp.obj"
+"C:\Users\sadan\Documents\Unreal Projects\GAS_Practice\Intermediate\Build\Win64\UE4Editor\Development\GAS_Practice\GAS_FPCAttributeSet.gen.cpp.obj"
+"C:\Users\sadan\Documents\Unreal Projects\GAS_Practice\Intermediate\Build\Win64\UE4Editor\Development\GAS_Practice\GAS_GameplayAbility.gen.cpp.obj"
+"C:\Users\sadan\Documents\Unreal Projects\GAS_Practice\Intermediate\Build\Win64\UE4Editor\Development\GAS_Practice\GAS_Practice.gen.cpp.obj"
+"C:\Users\sadan\Documents\Unreal Projects\GAS_Practice\Intermediate\Build\Win64\UE4Editor\Development\GAS_Practice\GAS_Practice.init.gen.cpp.obj"
+"C:\Users\sadan\Documents\Unreal Projects\GAS_Practice\Intermediate\Build\Win64\UE4Editor\Development\GAS_Practice\GAS_PracticeCharacter.gen.cpp.obj"
+"C:\Users\sadan\Documents\Unreal Projects\GAS_Practice\Intermediate\Build\Win64\UE4Editor\Development\GAS_Practice\GAS_PracticeGameMode.gen.cpp.obj"
+"C:\Users\sadan\Documents\Unreal Projects\GAS_Practice\Intermediate\Build\Win64\UE4Editor\Development\GAS_Practice\PlayerAttributes.gen.cpp.obj"
+"C:\Users\sadan\Documents\Unreal Projects\GAS_Practice\Intermediate\Build\Win64\UE4Editor\Development\GAS_Practice\Default.rc2.res"
+/OUT:"C:\Users\sadan\Documents\Unreal Projects\GAS_Practice\Intermediate\Build\Win64\UE4Editor\Development\GAS_Practice\UE4Editor-GAS_Practice-0010.lib"
+/INCLUDE:IMPLEMENT_MODULE_GAS_Practice

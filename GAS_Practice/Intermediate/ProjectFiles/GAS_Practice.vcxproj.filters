@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\GAS_Practice.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{482210C2-C689-4179-90C6-32532732156A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GAS_Practice.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\GAS_PracticeEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{8CBED6EB-E01B-49A1-8F03-826A953FCC51}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGameplayTags.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\GAS_Practice">
+      <UniqueIdentifier>{B60703A9-650F-4DF0-9F61-552F434D9E15}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\GAS_Practice\GASAbilitySystemComponent.cpp">
+      <Filter>Source\GAS_Practice</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GAS_Practice\GASAbilitySystemComponent.h">
+      <Filter>Source\GAS_Practice</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GAS_Practice\GASCharacter.cpp">
+      <Filter>Source\GAS_Practice</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GAS_Practice\GASCharacter.h">
+      <Filter>Source\GAS_Practice</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GAS_Practice\GAS_FPCAttributeSet.cpp">
+      <Filter>Source\GAS_Practice</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GAS_Practice\GAS_FPCAttributeSet.h">
+      <Filter>Source\GAS_Practice</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GAS_Practice\GAS_GameplayAbility.cpp">
+      <Filter>Source\GAS_Practice</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GAS_Practice\GAS_GameplayAbility.h">
+      <Filter>Source\GAS_Practice</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\GAS_Practice\GAS_Practice.Build.cs">
+      <Filter>Source\GAS_Practice</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\GAS_Practice\GAS_Practice.cpp">
+      <Filter>Source\GAS_Practice</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GAS_Practice\GAS_Practice.h">
+      <Filter>Source\GAS_Practice</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

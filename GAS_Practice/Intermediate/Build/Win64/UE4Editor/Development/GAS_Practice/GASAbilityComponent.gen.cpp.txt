@@ -1,0 +1,10 @@
+C:\Users\sadan\Documents\Unreal Projects\GAS_Practice\Intermediate\Build\Win64\UE4Editor\Development\GAS_Practice\Definitions.GAS_Practice.h
+C:\Program Files\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\sadan\Documents\Unreal Projects\GAS_Practice\Source\GAS_Practice/GASAbilityComponent.h
+C:\Program Files\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
+C:\Program Files\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+C:\Program Files\UE_4.25\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+C:\Program Files\UE_4.25\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+C:\Program Files\UE_4.25\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
+c:\users\sadan\documents\unreal projects\gas_practice\intermediate\build\win64\ue4editor\inc\gas_practice\GASAbilityComponent.generated.h
