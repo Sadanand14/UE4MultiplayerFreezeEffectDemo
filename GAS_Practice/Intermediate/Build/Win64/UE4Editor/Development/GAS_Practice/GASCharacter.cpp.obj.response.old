@@ -269,7 +269,7 @@
 /FI"C:\Users\sadan\Documents\Unreal Projects\GAS_Practice\Intermediate\Build\Win64\GAS_PracticeEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
 /Yu"C:\Users\sadan\Documents\Unreal Projects\GAS_Practice\Intermediate\Build\Win64\GAS_PracticeEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
 /Fp"C:\Users\sadan\Documents\Unreal Projects\GAS_Practice\Intermediate\Build\Win64\GAS_PracticeEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"C:\Users\sadan\Documents\Unreal Projects\GAS_Practice\Source\GAS_Practice\old code\GASCharacter.cpp"
+"C:\Users\sadan\Documents\Unreal Projects\GAS_Practice\Source\GAS_Practice\GASCharacter.cpp"
 /FI"C:\Users\sadan\Documents\Unreal Projects\GAS_Practice\Intermediate\Build\Win64\UE4Editor\Development\GAS_Practice\Definitions.GAS_Practice.h"
 /Fo"C:\Users\sadan\Documents\Unreal Projects\GAS_Practice\Intermediate\Build\Win64\UE4Editor\Development\GAS_Practice\GASCharacter.cpp.obj"
 /TP

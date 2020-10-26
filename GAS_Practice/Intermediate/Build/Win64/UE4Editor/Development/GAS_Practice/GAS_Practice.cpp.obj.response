@@ -233,8 +233,8 @@
 /I Runtime\Experimental\GeometryCollectionSimulationCore\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface
 /I Runtime\ClothingSystemRuntimeInterface\Public
-/I "C:\Users\sadan\Documents\Unreal Projects\GAS_Practice\Intermediate\Build\Win64\UE4Editor\Inc\GAS_Practice"
-/I "C:\Users\sadan\Documents\Unreal Projects\GAS_Practice\Source"
+/I E:\GitAbility\UE4MultiplayerFreezeEffectDemo\GAS_Practice\Intermediate\Build\Win64\UE4Editor\Inc\GAS_Practice
+/I E:\GitAbility\UE4MultiplayerFreezeEffectDemo\GAS_Practice\Source
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\AugmentedReality
 /I Runtime\AugmentedReality\Public
 /I ThirdParty\PhysX3\PxShared\include
@@ -266,12 +266,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"C:\Users\sadan\Documents\Unreal Projects\GAS_Practice\Intermediate\Build\Win64\GAS_PracticeEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"C:\Users\sadan\Documents\Unreal Projects\GAS_Practice\Intermediate\Build\Win64\GAS_PracticeEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Users\sadan\Documents\Unreal Projects\GAS_Practice\Intermediate\Build\Win64\GAS_PracticeEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"C:\Users\sadan\Documents\Unreal Projects\GAS_Practice\Source\GAS_Practice\GAS_Practice.cpp"
-/FI"C:\Users\sadan\Documents\Unreal Projects\GAS_Practice\Intermediate\Build\Win64\UE4Editor\Development\GAS_Practice\Definitions.GAS_Practice.h"
-/Fo"C:\Users\sadan\Documents\Unreal Projects\GAS_Practice\Intermediate\Build\Win64\UE4Editor\Development\GAS_Practice\GAS_Practice.cpp.obj"
+/FI"E:\GitAbility\UE4MultiplayerFreezeEffectDemo\GAS_Practice\Intermediate\Build\Win64\GAS_PracticeEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"E:\GitAbility\UE4MultiplayerFreezeEffectDemo\GAS_Practice\Intermediate\Build\Win64\GAS_PracticeEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"E:\GitAbility\UE4MultiplayerFreezeEffectDemo\GAS_Practice\Intermediate\Build\Win64\GAS_PracticeEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"E:\GitAbility\UE4MultiplayerFreezeEffectDemo\GAS_Practice\Source\GAS_Practice\GAS_Practice.cpp"
+/FI"E:\GitAbility\UE4MultiplayerFreezeEffectDemo\GAS_Practice\Intermediate\Build\Win64\UE4Editor\Development\GAS_Practice\Definitions.GAS_Practice.h"
+/Fo"E:\GitAbility\UE4MultiplayerFreezeEffectDemo\GAS_Practice\Intermediate\Build\Win64\UE4Editor\Development\GAS_Practice\GAS_Practice.cpp.obj"
 /TP
 /GR-
 /W4

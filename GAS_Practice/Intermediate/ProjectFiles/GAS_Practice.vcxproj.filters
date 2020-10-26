@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\GAS_Practice.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{482210C2-C689-4179-90C6-32532732156A}</UniqueIdentifier>
+      <UniqueIdentifier>{6237E9F2-E842-49FB-BFDA-70C3126F3F76}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\GAS_Practice.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{8CBED6EB-E01B-49A1-8F03-826A953FCC51}</UniqueIdentifier>
+      <UniqueIdentifier>{DC5A56AA-F822-4310-AB6D-EE3D0BFD3097}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -33,7 +33,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\GAS_Practice">
-      <UniqueIdentifier>{B60703A9-650F-4DF0-9F61-552F434D9E15}</UniqueIdentifier>
+      <UniqueIdentifier>{B3699E3C-A464-4A1E-9697-0CE0B2DA7A04}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\GAS_Practice\GASAbilitySystemComponent.cpp">
       <Filter>Source\GAS_Practice</Filter>

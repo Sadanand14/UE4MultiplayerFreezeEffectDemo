@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "GAS_Practice",
-			"Path": "C:\\Users\\sadan\\Documents\\Unreal Projects\\GAS_Practice\\Source\\GAS_Practice.Target.cs",
+			"Path": "E:\\GitAbility\\UE4MultiplayerFreezeEffectDemo\\GAS_Practice\\Source\\GAS_Practice.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "GAS_PracticeEditor",
-			"Path": "C:\\Users\\sadan\\Documents\\Unreal Projects\\GAS_Practice\\Source\\GAS_PracticeEditor.Target.cs",
+			"Path": "E:\\GitAbility\\UE4MultiplayerFreezeEffectDemo\\GAS_Practice\\Source\\GAS_PracticeEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]

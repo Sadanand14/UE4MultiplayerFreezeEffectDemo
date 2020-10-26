@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\sadan\\Documents\\Unreal Projects\\GAS_Practice\\Source\\GAS_Practice\\GAS_Practice.Build.cs",
-		"C:\\Users\\sadan\\Documents\\Unreal Projects\\GAS_Practice\\Source\\GAS_Practice.Target.cs",
-		"C:\\Users\\sadan\\Documents\\Unreal Projects\\GAS_Practice\\Source\\GAS_PracticeEditor.Target.cs"
+		"E:\\GitAbility\\UE4MultiplayerFreezeEffectDemo\\GAS_Practice\\Source\\GAS_Practice\\GAS_Practice.Build.cs",
+		"E:\\GitAbility\\UE4MultiplayerFreezeEffectDemo\\GAS_Practice\\Source\\GAS_Practice.Target.cs",
+		"E:\\GitAbility\\UE4MultiplayerFreezeEffectDemo\\GAS_Practice\\Source\\GAS_PracticeEditor.Target.cs"
 	],
 	"EngineVersion": "4.25.4"
 }
